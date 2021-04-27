@@ -1,7 +1,7 @@
 # Management Products System
 
 ## backend
-- json-server lib
+- json-server lib [https://www.npmjs.com/package/json-server]
 
     ```
         npm start
