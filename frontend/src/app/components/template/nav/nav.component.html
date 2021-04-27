@@ -4,14 +4,17 @@
     fixedInViewport="true"
     fixedTopGap="64">
         <mat-nav-list>
-            <a href="" mat-list-item>
+            <a href="" mat-list-item routerLink="/">
                 <i class="material-icons">home</i>
                 Home
             </a>
-            <a href="" mat-list-item>
+            <a href="" mat-list-item routerLink="/products">
                 <i class="material-icons">storefront</i>
                 Products
             </a>
         </mat-nav-list>
     </mat-sidenav>
+    <mat-sidenav-content class="content">
+        <router-outlet></router-outlet>
+    </mat-sidenav-content>
 </mat-sidenav-container>

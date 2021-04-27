@@ -1,16 +1,16 @@
 # Management Products System
 
 ## backend
-    - json-server lib
+- json-server lib
 
     ```
         npm start
     ```
 
 
-## frondend
-    - Angular
-    - Angular Material
+## frontend
+- Angular
+- Angular Material
 
     ```
         npm start
