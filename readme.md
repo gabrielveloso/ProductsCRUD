@@ -2,7 +2,7 @@
 
 <p align="center" >
   <h2 align="center" style="margin-top: 0px;">Screens</h2>
-  <img width="704" alt="Products Application - Angular" src="https://github.com/gabrielveloso/ProductsCRUD/screen.png">  
+  <img width="704" alt="Products Application - Angular" src="https://github.com/gabrielveloso/ProductsCRUD/blob/master/screen.png">  
 </p>
 
 ## backend
