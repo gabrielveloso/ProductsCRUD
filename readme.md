@@ -1,7 +1,6 @@
 # Management Products System
 
-<h1 align="center" >
-  <h2 align="center" style="margin-top: 0px;">Screens</h2>
+<h1 align="center" >  
   <img width="700" alt="Products Application - Angular" style="margin: 0 auto" src="https://github.com/gabrielveloso/ProductsCRUD/blob/master/screen.png">  
 </h1>
 
