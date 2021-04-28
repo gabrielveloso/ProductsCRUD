@@ -1,9 +1,9 @@
 # Management Products System
 
-<p align="center" >
+<h1 align="center" >
   <h2 align="center" style="margin-top: 0px;">Screens</h2>
   <img width="700" alt="Products Application - Angular" style="margin: 0 auto" src="https://github.com/gabrielveloso/ProductsCRUD/blob/master/screen.png">  
-</p>
+</h1>
 
 ## backend
 - json-server lib [https://www.npmjs.com/package/json-server]
