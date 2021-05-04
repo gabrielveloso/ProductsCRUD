@@ -24,6 +24,31 @@
       "name": "Mesa escritório",
       "price": 400,
       "id": 4
+    },
+    {
+      "name": "",
+      "price": 0,
+      "id": 5
+    },
+    {
+      "name": "",
+      "price": 0,
+      "id": 6
+    },
+    {
+      "name": "te",
+      "price": "1222",
+      "id": 7
+    },
+    {
+      "name": "gava",
+      "price": "122",
+      "id": 8
+    },
+    {
+      "name": "",
+      "price": null,
+      "id": 9
     }
   ]
 }
