@@ -1,16 +1,6 @@
 {
   "products": [
     {
-      "id": 1,
-      "name": "Caneta",
-      "price": 5.63
-    },
-    {
-      "id": 2,
-      "name": "Notebook Mac Pro",
-      "price": 12000
-    },
-    {
       "id": 2,
       "name": "Celular Moto G8",
       "price": 800.34
@@ -24,6 +14,16 @@
       "name": "Mesa escritório",
       "price": 400,
       "id": 4
+    },
+    {
+      "name": "Caneta",
+      "price": "1.23",
+      "id": 5
+    },
+    {
+      "name": "Cadeira Gamer",
+      "price": "500.23",
+      "id": 6
     }
   ]
 }
